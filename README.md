@@ -1,0 +1,2 @@
+# memoriainterna
+memoria
